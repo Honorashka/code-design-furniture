@@ -1,19 +1,15 @@
+.container,
 body {
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
+  min-width: 280px;
+  padding: 0 20px;
 }
 a {
     text-decoration: none;
 }
-.page-header {
-    color: #303032;
-    min-width: 280px;
-    padding: 0 20px;
-}
 .promo {
-    min-width: 280px;
-    padding: 0 20px;
     color: #303032;
 }
 .page-main {
@@ -51,8 +47,6 @@ a {
 }
 .new-product {
     color: #303032;
-    min-width: 280px;
-    padding: 0 20px;
 }
 .new-product_item-text {
     color: #303032;
@@ -72,8 +66,6 @@ a {
 }
 .last-discount {
     color: #303032;
-    min-width: 280px;
-    padding: 0 20px;
 }
 .new-product__title {
     font-family: 'Playfair Display', serif;
@@ -113,10 +105,6 @@ a {
 }
 .contact-list__email {
     color: #303032; 
-}
-.page-footer {
-    min-width: 280px;
-    padding: 0 20px;
 }
 .page-footer__list {
     font-weight: 600;
