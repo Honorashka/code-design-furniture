@@ -1,0 +1,121 @@
+.container,
+body {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  min-width: 280px;
+  padding: 0 20px;
+}
+a {
+    text-decoration: none;
+}
+.promo {
+    color: #303032;
+}
+.page-main {
+    background-color: #F9FDFF;
+}
+.site-list {
+    font-size: 18px;
+    line-height: 24px;
+}
+.site-list__link {
+    color: #303032;
+}
+.page-main__title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 45px;
+}
+.page-main__text {
+    font-size: 20px;
+    line-height: 27px;
+}
+.price-list__old {
+    font-size: 20px;
+    line-height: 27px;
+}
+.price-list__new{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40xp;
+}
+.price-list__button {
+    font-size: 16px;
+    line-height: 21px;
+}
+.new-product {
+    color: #303032;
+}
+.new-product_item-text {
+    color: #303032;
+}
+.new-product__title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.new-product_item-text {
+    font-size: 20px;
+}
+.new-product__price {
+    font-weight: 600;
+    font-size: 28px;
+    color: #303032;
+}
+.last-discount {
+    color: #303032;
+}
+.new-product__title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.last-discount__item-text {
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+    opacity: 40%;
+}
+.last-discount__item-text--active {
+    opacity: 100%;
+}
+.discount-product__title {
+    font-size: 16px;
+}
+.discount-product__newprice {
+    font-size: 28px;
+    font-weight: 600;
+    color: #303032;
+}
+.discount-product__oldprice {
+    font-size: 16px;
+    color: #979798;
+    text-decoration: line-through;
+}
+.contact-list {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.contact-list__phone {
+    color: #303032;
+}
+.contact-list__email {
+    color: #303032; 
+}
+.page-footer__list {
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.page-footer__text{
+    color: #303032;
+}
+.page-footer__information-text {
+    font-weight: 400;
+    font-size: 10px;
+    text-align: center;
+}
